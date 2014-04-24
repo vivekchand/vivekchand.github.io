@@ -1,0 +1,47 @@
+html{color:#00;background-color:#fff;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym {border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;overflow:hidden;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}legend{color:#000;}
+body {font-family: sans-serif;}table{font-size:inherit;}pre,code,kbd,samp,tt{font-family:monospace;line-height:100%;;}
+
+/* CORE STYLES */
+
+html {
+	background-color: #0e;
+}
+
+body {
+
+font: 18px/36px Georgia,"Times New Roman",Times, Serif;
+overflow: scroll;
+overflow-x: auto;
+overflow-y: scroll
+}
+
+h1 {
+
+color: green;
+font-size: 3.5em;
+text-align: center;
+padding-top: 5px;
+padding-bottom: 20px;
+}
+
+div.content{
+
+line-height:1.8em;	
+}
+
+#wrapper {
+  text-align: left;
+  width: 800px;
+  margin: 100px auto 0;
+  line-height: 25px; 
+}
+
+a:link, a:visited, a:active{
+color:#1AAF00;
+text-decoration:none;
+}
+
+a:hover{
+background-color:#1AAF00;
+color:white;
+}
