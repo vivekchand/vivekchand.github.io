@@ -20,7 +20,7 @@ h1 {
 color: green;
 font-size: 3.5em;
 text-align: center;
-padding-top: 5px;
+padding-top: 0px;
 padding-bottom: 20px;
 }
 
@@ -33,7 +33,7 @@ line-height:1.8em;
   text-align: left;
   width: 800px;
   margin: 100px auto 0;
-  line-height: 25px; 
+  line-height: 15px; 
 }
 
 a:link, a:visited, a:active{
