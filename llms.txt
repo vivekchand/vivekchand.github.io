@@ -1,0 +1,53 @@
+# Vivek Chand Kuduva Devadoss
+
+> AI Engineering Leader and open-source founder. Based in Amsterdam, Netherlands. Tech Lead at Booking.com. Building at the intersection of AI, developer tooling, and EdTech.
+
+## About
+
+Vivek is a software engineer and founder with 13+ years of experience. He leads AI/ML initiatives at Booking.com — driving LLM accuracy from 60% to 95%+, building evaluation frameworks used across 15,000+ agents, generating €35M annual impact. He also builds open-source tools and consumer AI products.
+
+## Projects
+
+### ClawMetry
+Open-source real-time observability dashboard for OpenClaw AI agents. Think Grafana for LLM pipelines in production. 40,000+ installs worldwide. Ranked #5 on Product Hunt launch day (above everything except Claude Sonnet 4.6).
+- URL: https://clawmetry.com
+- GitHub: https://github.com/vivekchand/clawmetry
+- Tech: Python, Next.js, WebSocket, PyPI
+
+### VedicVoice
+AI-powered Sanskrit and Vedic text digital library with native TTS narration (custom AI4Bharat voices). 12+ ancient texts digitized including Upanishads and Yoga Sutras.
+- URL: https://vedicvoice.app
+- Tech: Next.js, Express, PostgreSQL, Google Cloud Run
+
+### InburgeringAI
+AI-powered Dutch citizenship (inburgering) exam preparation tool for immigrants in the Netherlands.
+- URL: https://inburgeringai.nl
+
+### Zenor
+AI recruitment and Shopify AI-visibility audit tools.
+- URL: https://zenor.ai
+
+### Judge LLM Evaluation Framework (Booking.com)
+Production framework for automated LLM output evaluation using judge model approach. Replaced manual quality assessment, achieving 7x faster iteration cycles.
+
+## Experience
+
+- **Booking.com** — Tech Lead / Senior Software Engineer (Jan 2020 — Present, Amsterdam). Led AI/CS initiatives: Text Summarisation (60% to 95%+ accuracy), Intelligent Voice Assistant, CS Co-Pilot, Automated Quality Evaluation. €35M annual impact.
+- **ClassKlap (Eupheus Learning)** — Lead Engineer. EdTech platform serving 500,000+ students across India.
+- **Recruiterbox (now JazzHR)** — Early Engineer (#3). Built core product from ground up.
+
+## Education
+
+B.E. Computer Science, Dr. Ambedkar Institute of Technology, Bangalore (2007–2011)
+
+## Contact
+
+- Website: https://vivekchand.github.io
+- GitHub: https://github.com/vivekchand
+- LinkedIn: https://linkedin.com/in/vivekchand
+- Twitter/X: https://twitter.com/vivekchand19
+- Location: Amsterdam, Netherlands
+
+## Languages
+
+English, Kannada, Hindi, Tamil, Sourashtra
